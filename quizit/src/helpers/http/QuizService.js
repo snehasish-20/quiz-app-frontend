@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "http://ec2-34-236-15-125.compute-1.amazonaws.com:8083/quiz";
+const baseUrl = "http://ec2-34-236-15-125.compute-1.amazonaws.com:8085/quiz";
 
 const bearerToken = localStorage.getItem("token");
 
